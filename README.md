@@ -6,3 +6,5 @@
 - 🤔 I’m looking for help with MIPS ASM hacking
 - 💬 Ask me about my Karaoke machine
 - 📫 How to reach me: @stoneddisc0rd on Discord
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
