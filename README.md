@@ -7,4 +7,4 @@
 - 💬 Ask me about my Karaoke machine
 - 📫 How to reach me: @stoneddisc0rd on Discord
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=stonedDiscord&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
