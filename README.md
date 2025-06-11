@@ -8,3 +8,5 @@
 - 📫 How to reach me: @stoneddisc0rd on Discord
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=stonedDiscord&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stonedDiscord&size_weight=0.2&count_weight=1&langs_count=10&theme=transparent)
