@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on [MAME](https://github.com/mamedev/mame)
 - 🤔 I’m looking for help with MIPS ASM hacking
 - 💬 Ask me about my [Karaoke machine](https://github.com/stonedDiscord/Karaoke)
-- 📫 How to reach me: @stoneddisc0rd on Discord
+- 📫 How to reach me: [@stoneddisc0rd on Discord](https://discord.com/users/128176576985694208) or my E-Mail (might take me a few weeks to check my spam folder)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=stonedDiscord&theme=onedark&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
